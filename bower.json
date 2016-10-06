@@ -1,0 +1,20 @@
+{
+  "name": "library",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "MECLab-Keags <keagan.soakell-ho@clinician.io>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/MECLab-Keags/meclab-node-express",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
